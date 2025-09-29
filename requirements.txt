@@ -1,0 +1,11 @@
+gradio==5.47.2
+PyPDF2==3.0.1
+pdf2image==1.17.0
+pytesseract==0.3.13
+pillow==10.4.0
+google-generativeai==0.8.3
+jupyter==1.1.1
+faiss-cpu
+rouge-score
+numpy
+python-docx
