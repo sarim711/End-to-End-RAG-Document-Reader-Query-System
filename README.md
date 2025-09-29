@@ -64,7 +64,7 @@ GEMINI_API_KEY=your-api-key-here
 Run the Gradio interface:
 
 ```bash
-python pdf_reader.py
+python doc_reader.py
 ```
 
 Access the app at: **[http://127.0.0.1:7862](http://127.0.0.1:7862)**
